@@ -1,4 +1,4 @@
-# Hi, I'm Somil vaishya! 👋
+# Hi, I'm Shahid Saifullah! 👋
 
 I am Full stack Intern at Almabetter and this is my second project, on Book My Show
 
@@ -11,7 +11,7 @@ This online booking platform simplifies the process of reserving movie tickets, 
 If you want to work on this project , clone this repo
 
 ```bash
-git clone "https://github.com/Somilvaishya/bookmyshow-alma"
+git clone "https://github.com/Shahids007/bookmyshow_app"
 
 ```
 
